@@ -118,14 +118,13 @@ div.video {
     position: relative;
 }
 
-div.video > iframe {
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
+iframe#faixa-atual {
 
-}
+    width:20vw;
+    height:150px;
+    border: 2px solid black;
+    background-image: url(imagens/dudu_semfundo.png);
+ }
 
 
 footer {
