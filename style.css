@@ -10,7 +10,7 @@
 
 body { 
     background-image:url("imagens/main.png");
-    font-family: Tahoma, Helvetica, sans-serif;
+    font-family: Arial,Tahoma, Helvetica, sans-serif;
     color: rgba(255, 255, 255, 0.861);
 }
 #playlist {
